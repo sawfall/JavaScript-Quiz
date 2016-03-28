@@ -1,0 +1,60 @@
+body{
+background-color:orange;
+font-family:Calibri;
+color:blue;
+font-size:14px;
+}
+#container{
+background-color:lightgray;
+width:60%;
+margin:20px auto;
+overflow:auto;
+padding:30px;
+}
+header{
+color:black;
+font-family:Arial;
+text-align:center;
+}
+header h1{
+margin:0;
+padding:0;
+}
+
+header p{
+padding:0;
+margin-top;-10px;
+}
+
+section{
+min-height:350px;
+}
+
+footer{
+text-align:right;
+margin:10px auto;
+font-size:12px;
+}
+
+input[type='submit']{
+background-color:gray;
+color:white;
+width:100px;
+height:25px;
+margin-left:250px;
+border-radius:4px;
+font-size:16px;
+border:0;
+padding:0;
+cursor:pointer;
+}
+
+#results h3{
+background-color:white;
+margin:10px 0;
+padding:15px;
+}
+#results span{
+color:black;
+font-weight:bold;
+}
